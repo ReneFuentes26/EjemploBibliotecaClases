@@ -1,0 +1,6 @@
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.AssemblyReference.cache
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\SilenSent21\source\repos\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
